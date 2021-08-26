@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background: #efeee7;
+  }
+
+h1 {
+    font-size: 40px;
+    color:white;
+    background-color:teal;
+}
+h2 {
+    color: teal;
+}
+
+p {
+    line-height: 2;
+}
+
+#summary-name {
+    font-size: 40px;
+    color: teal;
+
+}
+
+#summary-image {
+    width: 300px;
+    height: 300px;
+}
+
+.container {
+    width: 1024px;
+    background:white;
+  }
+
+
+#menu-image {
+    width: 200px;
+    height: 200px;
+}
+
+.vis-menu {
+    width: 50px;
+    margin: 0 auto;
+  }
+
