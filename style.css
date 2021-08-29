@@ -33,11 +33,22 @@ a.navbar-brand{
     font-weight: bold;
 }
 
+.col-md-4{
+    background-color: #efeee7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col-md-8{
+    background-color: #efeee7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 .col-md-12{
     background-color: white;
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-right: 25px;
 }
 
 p {
@@ -47,6 +58,12 @@ p {
 
 .container {
     background:white;
+}
+
+.content {
+    padding-top: 50px;
+    padding-bottom: 80px;
+    overflow: hidden;
 }
 
 #menu-image {
