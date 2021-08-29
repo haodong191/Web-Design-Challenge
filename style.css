@@ -51,10 +51,15 @@ a.navbar-brand{
     padding-bottom: 50px;
 }
 
+#col-md-12{
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 p {
     line-height: 2;
 }
-
 
 .container {
     background:white;
@@ -64,6 +69,11 @@ p {
     padding-top: 50px;
     padding-bottom: 80px;
     overflow: hidden;
+}
+
+.content.bg-white {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #menu-image {
